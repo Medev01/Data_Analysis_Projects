@@ -77,11 +77,11 @@ In this project, I analyzed sales data for a product in the USA using Python to 
 
 ### Methods:
 
-Collected and cleaned the sales data from various sources, including databases and spreadsheets
-Performed exploratory data analysis (EDA) to identify trends and patterns in the data
-Developed a predictive model using linear regression to forecast future sales
-Used data visualization techniques to communicate findings and insights to stakeholders
-Results:
+- Collected and cleaned the sales data from various sources, including databases and spreadsheets
+- Performed exploratory data analysis (EDA) to identify trends and patterns in the data
+- Used data visualization techniques to communicate findings and insights to stakeholders
+  
+### Results:
 
 Identified a positive correlation between price and sales, indicating that a price increase could lead to increased sales
 Found that sales were highest in the Northeast region and lowest in the Southwest region, indicating a potential opportunity for growth in the Southwest
@@ -90,11 +90,10 @@ Created data visualizations, including bar charts and scatter plots, to communic
 
 ### Skills Used:
 
-Python programming language
-Data analysis and visualization libraries (e.g. NumPy, Pandas, Matplotlib)
-Linear regression
-Exploratory data analysis (EDA)
-Data manipulation and cleaning
+- Python programming language
+- Data analysis and visualization libraries (e.g. NumPy, Pandas, Matplotlib)
+- Exploratory data analysis (EDA)
+- Data manipulation and cleaning
 
 Project 5:
 
