@@ -1,6 +1,6 @@
 # Welcome to my data analytics portfolio!
 
-As a Master student with University Mohamed 5, I have a passion for extracting insights and telling stories with data. In this repository, you'll find a variety of projects that demonstrate my skills in data analysis, visualization, and communication.
+Welcome to my data analytics portfolio, where you can find a collection of my past and ongoing data analysis projects. As a data-driven professional, I have a passion for extracting insights and telling stories with data. In this repository, you'll find a variety of projects that demonstrate my skills in data analysis, visualization, and communication.
 
 ## About Me
 My name is Mohamed ouahlou, and I am a Master student with University Mohamed 5. I have 1 year of experience in data analysis and have worked with a range of tools and technologies, including Python, Excel, SQL, and Tableau. I am always looking to expand my skillset and take on new challenges, so please feel free to reach out if you have any project ideas or collaborations in mind.
