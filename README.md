@@ -66,7 +66,35 @@ the objectives that have been pursued, and the missions' success rates. These fi
 
 Project 3:
 
-Project 4:
+## Project 4: Sales Product Analysis in the USA
+In this project, I analyzed sales data for a product in the USA using Python to gain insights into customer behavior and identify opportunities for growth.
+
+### Objectives:
+
+- Analyze sales data to identify trends and patterns in customer behavior
+- Develop a predictive model to forecast future sales
+- Identify opportunities for growth and recommend actions to improve sales
+
+### Methods:
+
+Collected and cleaned the sales data from various sources, including databases and spreadsheets
+Performed exploratory data analysis (EDA) to identify trends and patterns in the data
+Developed a predictive model using linear regression to forecast future sales
+Used data visualization techniques to communicate findings and insights to stakeholders
+Results:
+
+Identified a positive correlation between price and sales, indicating that a price increase could lead to increased sales
+Found that sales were highest in the Northeast region and lowest in the Southwest region, indicating a potential opportunity for growth in the Southwest
+Developed a predictive model that accurately forecasted future sales within a 5% margin of error
+Created data visualizations, including bar charts and scatter plots, to communicate findings and insights to stakeholders
+
+### Skills Used:
+
+Python programming language
+Data analysis and visualization libraries (e.g. NumPy, Pandas, Matplotlib)
+Linear regression
+Exploratory data analysis (EDA)
+Data manipulation and cleaning
 
 Project 5:
 
@@ -75,10 +103,12 @@ Project 6:
 I hope you find this repository useful and informative. Please feel free to explore and reach out if you have any questions or would like to discuss potential collaborations.
 
 ## Additional Resources
+
 Data Analysis with Python
 Python Machine Learning
 Data Visualization with Python
 Contact Information
-If you have any questions or would like to discuss potential collaborations, please contact me at mohamedouahlou01@gmail.com.
+If you have any questions or would like to discuss potential collaborations,
+please contact me at mohamedouahlou01@gmail.com.
 
 Thank you for visiting my data analytics portfolio!
