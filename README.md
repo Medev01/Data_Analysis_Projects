@@ -64,7 +64,10 @@ By examining historical data, we can see how space exploration has evolved over 
 the objectives that have been pursued, and the missions' success rates. These findings can be used to inform future space mission planning and research.
 
 
-Project 3:
+## Project 3: Remote Jobs Scraping 
+
+Empower your job search with the "Remote Jobs Scraping" project. Utilizing web scraping techniques, this tool aggregates remote job listings from dailyremote.com, providing you with a centralized hub for discovering opportunities tailored to your preferences. Enjoy a user-friendly interface, customizable filters, and a notification system to stay ahead in the competitive world of remote work. Find your dream job faster – start exploring today!
+
 
 ## Project 4: Sales Product Analysis in the USA
 In this project, I analyzed sales data for a product in the USA using Python to gain insights into customer behavior and identify opportunities for growth.
